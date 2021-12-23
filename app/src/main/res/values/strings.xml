@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RecyclerWithOnItemClickOnKotlin</string>
+    <string name="select">Выбранные фотографии</string>
 </resources>

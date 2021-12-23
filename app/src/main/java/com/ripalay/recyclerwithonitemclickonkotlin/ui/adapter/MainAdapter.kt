@@ -3,6 +3,7 @@ package com.ripalay.recyclerwithonitemclickonkotlin.ui.adapter
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.ripalay.recyclerwithonitemclickonkotlin.R
 import com.ripalay.recyclerwithonitemclickonkotlin.databinding.ItemListBinding
 
 class MainAdapter(private val list: ArrayList<Int>) :
